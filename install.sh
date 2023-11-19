@@ -1,5 +1,7 @@
 #!/bin/bash/
 
+sudo cp pstoricohddst-gdi /usr/lib/cups/filter
+
 sudo apt install libnetpbm-dev
 
 sudo apt install inotify-tools
