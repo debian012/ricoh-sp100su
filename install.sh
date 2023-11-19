@@ -1,11 +1,5 @@
 #!/bin/bash/
 
-sudo apt install git
-
-git clone https://github.com/debian012/ricoh-sp100su/
-
-cd /ricoh-sp100su/
-
 sudo apt install libnetpbm-dev
 
 sudo apt install inotify-tools
